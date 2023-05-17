@@ -1,0 +1,43 @@
+body{
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    align-items:center;
+    
+
+}
+.score{
+    color:green;
+    font-size:20px;
+
+}
+#question{
+    color:purple;
+}
+.form{
+    margin-top:60px;
+    border:12px;
+    border-style:solid;
+    border-color:purple;
+    
+    padding:50px;
+    background-color:yellow;
+}
+.input{
+    border:solid;
+    border-color:green;
+    display:block;
+    width:100%;
+   box-sizing:border-box;
+    
+    
+    padding:20px;
+    
+
+}
+.btn{
+   margin-top:20px;
+   margin-left:130px;
+   color:white;
+   background-color:green;
+}
